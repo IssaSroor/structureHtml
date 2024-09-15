@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 *{
     font-family: Dancing Script;
+    margin: 0%;
+    padding: 0%;
 }
 .first-div{
   background-image: url('/assets/images/burger.jpeg');
@@ -12,9 +14,9 @@
 }
 .First-container{
     display: flex;
-    justify-content: space-around;
-    padding-top:10px ;
-    align-items:center ;
+    justify-content:space-around;
+    padding-top:10px;
+    align-items:center;
 }
 .nav-items{
     display: flex;
