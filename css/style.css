@@ -5,7 +5,7 @@
     padding: 0%;
 }
 .first-div{
-  background-image: url('/assets/images/burger.jpeg');
+  background-image: url('../assets/images/burger.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
